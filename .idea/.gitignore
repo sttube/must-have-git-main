@@ -12,3 +12,7 @@ node_modules/
 
 # SonarLint plugin
 .idea/sonarlint/
+/sonarlint/issuestore/f/4/f43ecdf8d666ee908aacce037b4cd72159e4741b
+/sonarlint/securityhotspotstore/f/4/f43ecdf8d666ee908aacce037b4cd72159e4741b
+/sonarlint/issuestore/index.pb
+/sonarlint/securityhotspotstore/index.pb
