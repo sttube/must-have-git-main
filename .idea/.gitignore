@@ -10,5 +10,5 @@
 # Dependency directories
 node_modules/
 
-# Sonarlint
+# SonarLint plugin
 .idea/sonarlint/
